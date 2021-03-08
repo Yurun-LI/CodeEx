@@ -1,0 +1,1 @@
+    cout << istr.str() << endl;
